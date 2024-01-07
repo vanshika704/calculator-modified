@@ -1,5 +1,5 @@
 import 'dart:io';
-//.
+
 main() {
   dynamic n1, n2, operation, result;
   stdout.writeln("enter number 1:");
